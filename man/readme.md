@@ -3,7 +3,7 @@
 [Ronn](https://github.com/rtomayko/ronn) is how we hide from the hidious syntax that man pages are written with. In addition, it gives us an HTML page that we put on [roots.cx](http://roots.cx) install. So if you're gonna be editing the man page, install it:
 
 ```
-sudo apt-get install ruby-ronn
+gem install ronn -g
 ```
 
 #Modifying and Merging
